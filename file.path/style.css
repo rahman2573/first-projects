@@ -1,0 +1,33 @@
+.parent{
+  background: rgba(185, 157, 20, 0.886);
+  padding: 10px;
+  border: 10px solid #ff4356;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-flow: ;
+  justify-content: space-between;
+  height: 500px;
+  align-items: center;
+  align-items: last baseline;
+  align-items: flex-start;
+
+}
+.tree{
+  width: 100px;
+  height: 100px;
+  background: #ff4356;
+}
+.two{
+  background: blueviolet;
+  border: 5px solid #fdf879;
+  margin: 10px 10px;
+  padding: 15px;
+  flex-basis: 20%;
+}
+.two a{
+  background: yellow;
+  border: 1px solid #fdf879;
+ 
+  text-decoration: none;
+}
